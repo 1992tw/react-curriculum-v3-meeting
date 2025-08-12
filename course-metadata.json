@@ -1,0 +1,27 @@
+{
+  "id": "689b8cafda178d0c60f45bb1",
+  "title": "React Curriculum V3",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/react-curriculum-v3",
+  "remoteGithubUrl": "https://github.com/1992tw/react-curriculum-v3-meeting",
+  "createdAt": "2025-08-12T18:49:19.492Z",
+  "updatedAt": "2025-08-12T18:49:20.802Z",
+  "lessonCount": 16
+}
